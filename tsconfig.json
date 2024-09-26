@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "outDir": "src/dist",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "lib": ["es2020"],
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "noImplicitAny": false,
+      "noUnusedLocals": false,
+      "pretty": true,
+      "removeComments": false,
+      "sourceMap": true,
+      "suppressImplicitAnyIndexErrors": false,
+      "target": "es2020",
+      "strict": false,
+      "esModuleInterop": false,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "typeRoots": [
+          "./node_modules/@types",
+          "./typings/index.d.ts"
+      ]
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+  }
+  

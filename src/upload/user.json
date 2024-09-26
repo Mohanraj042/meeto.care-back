@@ -1,0 +1,12 @@
+[
+    {
+        "userName": "Pixalive",
+        "mobile": 90000000000,
+        "password": "c4f6c3cc5a1811f1452907014caaea380864d80f8b20fadf49d285c6973ecdef",
+        "email": "admin@gmail.com",
+        "role": "ADMIN",
+        "imageUrl": "https://upturnhrmanagement.s3.ap-south-1.amazonaws.com/employee/men.png",
+        "status": 1,
+        "isDeleted": false
+    }
+]
